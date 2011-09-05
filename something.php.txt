@@ -1,0 +1,13 @@
+<html>
+ <body>
+
+ <?php
+<<<<<<< HEAD
+ echo "Hello World what";
+=======
+ echo "Hello World lol you suck";
+>>>>>>> acbb3d2a55c5299d81571b7478641983142313f4
+ ?>
+
+ </body>
+ </html>
